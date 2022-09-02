@@ -1,0 +1,36 @@
+[
+    {
+      "id": "1",
+      "name": "ALexa ",
+      "gender": "Female",
+      "contact": "+086274870",
+      "address": "Dublin,Ireland",
+      "photoURL": "https://images.unsplash.com/photo-1599842057874-37393e9342df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "id": "2",
+      "name": "Baron",
+      "gender": "male",
+      "contact": "+762100474",
+      "address": "Jersey city, New Jersey",
+      "photoURL": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+    },
+    { 
+     "id": "3",
+      "name": "John",
+      "gender": "Male",
+      "contact": "+01279172",
+      "address": "Birmingham, England",
+      "photoURL": "https://images.unsplash.com/photo-1615109398623-88346a601842?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+     
+    },
+    { 
+     "id": "4",
+      "name": "Ozy",
+      "gender": "Female",
+      "contact": "+086124578",
+      "address": "Mumbai,india",
+      "photoURL": "https://images.unsplash.com/photo-1604004215402-e0be233f39be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTd8fGdpcmx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+     
+    }
+  ]
